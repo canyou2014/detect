@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1464689359 source:/home/lyw/mycode/detect/main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"detect.h"
+	"detect1.h"
+	<cstdlib>
+
+1464686805 /home/lyw/mycode/detect/include/detect.h
+
+1464684422 source:/home/lyw/mycode/detect/src/detect.cpp
+	"detect.h"
+	<iostream>
+
+1464689683 source:/home/lyw/mycode/detect/src/detect1.cpp
+	"detect1.h"
+	<iostream>
+	<boost/array.hpp>
+	<vector>
+
+1464688621 /home/lyw/mycode/detect/include/detect1.h
+	<boost/array.hpp>
+	<vector>
+
